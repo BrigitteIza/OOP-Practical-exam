@@ -1,0 +1,5 @@
+Link,Closed,Ana,Anca
+Compiler,Closed,Ana,Deea
+Error,Open,Darius, 
+Error2,Closed,Anca,Patricia
+Ale,Closed,Maria,Patricia
